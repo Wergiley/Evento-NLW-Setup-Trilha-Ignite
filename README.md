@@ -4,7 +4,7 @@ Trilha: IGNITE
 
 Cronograma:
 - Aula 01 - 16/01 - 20h ✅
-- Aula 02 - 17/01 - 9h
+- Aula 02 - 17/01 - 9h ✅
 - Aula 03 - 18/01 - 9h
 - Aula 04 - 19/01 - 9h
 - Aula 05 - 20/01 - 9h
