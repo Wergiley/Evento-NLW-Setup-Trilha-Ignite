@@ -7,7 +7,8 @@ Cronograma:
 - Aula 02 - 17/01 - 9h
 - Aula 03 - 18/01 - 9h
 - Aula 04 - 19/01 - 9h
-- Aula 05 - 20/01 - 19h
+- Aula 05 - 20/01 - 9h
+- Final - 23/01 - 19h - encerramento.
 
 Desc: 
 <p>É hora de decolar e partir rumo ao próximo nível. 
