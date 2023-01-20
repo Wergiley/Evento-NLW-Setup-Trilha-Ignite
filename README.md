@@ -6,9 +6,9 @@ Cronograma:
 - Aula 01 - 16/01 - 20h ✅
 - Aula 02 - 17/01 - 19h ✅
 - Aula 03 - 18/01 - 19h ✅
-- Aula 04 - 19/01 - 19h
+- Aula 04 - 19/01 - 19h ✅
 - Aula 05 - 20/01 - 19h
-- Final - 23/01 - 19h - encerramento.
+- Live 06 - 23/01 - 19h - Encerramento.
 
 Desc: 
 <p>É hora de decolar e partir rumo ao próximo nível. 
