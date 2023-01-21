@@ -7,7 +7,7 @@ Cronograma:
 - Aula 02 - 17/01 - 19h ✅
 - Aula 03 - 18/01 - 19h ✅
 - Aula 04 - 19/01 - 19h ✅
-- Aula 05 - 20/01 - 19h
+- Aula 05 - 20/01 - 19h ✅
 - Live 06 - 23/01 - 19h - Encerramento.
 
 Desc: 
